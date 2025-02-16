@@ -8,12 +8,12 @@
 			"email": "kevin.krummnacker@gmail.com"
 		}
 	],
-	"repositories": {
-		"php-whmcs-api": {
+	"repositories": [
+		{
 			"url": "https://github.com/ricky-barnett/php-whmcs-api",
 			"type": "vcs"
 		}
-	},
+	],
 	"require": {
 		"php": "^7.4|^8.0",
 		"ext-json": "*",
