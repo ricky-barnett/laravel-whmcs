@@ -10,8 +10,8 @@
 	],
 	"repositories": {
 		"php-whmcs-api": {
-			"url": "https://github.com/ricky-barnett/php-whmcs-api.git",
-			"type": "git"
+			"url": "https://github.com/ricky-barnett/php-whmcs-api",
+			"type": "vcs"
 		}
 	},
 	"require": {
